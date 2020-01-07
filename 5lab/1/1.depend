@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578425836 source:c:\users\arnas\desktop\lab\5lab\1\main.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
